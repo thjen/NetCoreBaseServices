@@ -1,0 +1,8 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\IDO.Edu.Constants.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\IDO.Edu.Constants.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\IDO.Edu.Constants.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\IDO.Edu.Constants.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\IDO.Edu.Constants.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\IDO.Edu.Constants.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\IDO.Edu.Constants.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\IDO.Edu.Constants.csprojAssemblyReference.cache

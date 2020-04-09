@@ -1,0 +1,45 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csproj.CopyComplete
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.CacheManager\obj\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb

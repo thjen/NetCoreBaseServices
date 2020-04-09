@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.CacheManager\\IDO.Edu.CacheManager.csproj": {}
+  },
+  "projects": {
+    "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.CacheManager\\IDO.Edu.CacheManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.CacheManager\\IDO.Edu.CacheManager.csproj",
+        "projectName": "IDO.Edu.CacheManager",
+        "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.CacheManager\\IDO.Edu.CacheManager.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.CacheManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\BaseArchitect.Entities.csproj": {
+                "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\BaseArchitect.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\IDO.Edu.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\IDO.Edu.Core.csproj",
+        "projectName": "IDO.Edu.Core",
+        "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\IDO.Edu.Core.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\BaseArchitect.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\BaseArchitect.Entities.csproj",
+        "projectName": "BaseArchitect.Entities",
+        "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\BaseArchitect.Entities.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\BaseArchitect.Utility.csproj": {
+                "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\BaseArchitect.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\BaseArchitect.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\BaseArchitect.Utility.csproj",
+        "projectName": "BaseArchitect.Utility",
+        "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\BaseArchitect.Utility.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\IDO.Edu.Core.csproj": {
+                "projectPath": "E:\\Source\\Net Core Architect\\BaseArchitect\\IDO.Edu.Core\\IDO.Edu.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

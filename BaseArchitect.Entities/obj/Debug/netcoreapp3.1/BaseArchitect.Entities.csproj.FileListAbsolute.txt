@@ -1,0 +1,45 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.dev.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csproj.CopyComplete
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.dev.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.runtimeconfig.dev.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Entities\obj\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb

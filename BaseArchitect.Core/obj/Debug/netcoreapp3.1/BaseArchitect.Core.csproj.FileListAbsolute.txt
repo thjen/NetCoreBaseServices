@@ -1,0 +1,23 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Core\obj\Debug\netcoreapp3.1\BaseArchitect.Core.pdb

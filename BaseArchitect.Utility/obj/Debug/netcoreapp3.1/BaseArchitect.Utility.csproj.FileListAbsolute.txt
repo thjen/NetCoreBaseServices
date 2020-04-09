@@ -1,0 +1,33 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csproj.CopyComplete
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Utility\obj\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb

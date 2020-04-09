@@ -1,0 +1,118 @@
+﻿{
+   "ContextClassName": "BaseContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "BaseArchitect.Entities",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Account]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AccountDocument]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AccountRole]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Answer]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Course]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CourseAddress]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CourseCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CourseImage]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Exam]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[GoalCourse]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Lesson]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LessonComment]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LessonDocument]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[LessonVideo]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Notification]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Order]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[OrderCourse]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Quiz]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Rating]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[RefreshToken]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Role]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Tag]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[TargetCategory]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[V_Account]"
+      }
+   ],
+   "UseDatabaseNames": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}

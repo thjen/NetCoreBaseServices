@@ -1,0 +1,15 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.DAL.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.DAL.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.DAL.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Entities.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Entities.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Core.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.csprojAssemblyReference.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.csproj.CopyComplete
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.DAL\obj\Debug\netcoreapp3.1\IDO.Edu.DAL.pdb

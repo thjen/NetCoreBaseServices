@@ -1,0 +1,16 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.csprojAssemblyReference.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\bin\Debug\netcoreapp3.1\IDO.Edu.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Core\obj\Debug\netcoreapp3.1\IDO.Edu.Core.pdb

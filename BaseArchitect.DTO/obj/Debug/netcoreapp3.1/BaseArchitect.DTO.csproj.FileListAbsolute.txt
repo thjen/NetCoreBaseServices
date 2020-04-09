@@ -1,0 +1,45 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csproj.CopyComplete
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.DTO\obj\Debug\netcoreapp3.1\BaseArchitect.DTO.pdb

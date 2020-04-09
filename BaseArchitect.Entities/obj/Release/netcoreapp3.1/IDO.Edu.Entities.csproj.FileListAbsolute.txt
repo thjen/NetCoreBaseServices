@@ -1,0 +1,13 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Entities.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Entities.runtimeconfig.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Entities.runtimeconfig.dev.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Entities.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Entities.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Utility.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\bin\Release\netcoreapp3.1\IDO.Edu.Utility.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.csprojAssemblyReference.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.csproj.CopyComplete
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Entities\obj\Release\netcoreapp3.1\IDO.Edu.Entities.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IDO.Edu.Core/1.0.0": {
+        "runtime": {
+          "IDO.Edu.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDO.Edu.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

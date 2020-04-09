@@ -1,0 +1,15 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.CacheManager.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.CacheManager.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.CacheManager.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Entities.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Entities.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.csprojAssemblyReference.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.csproj.CopyComplete
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\obj\Debug\netcoreapp3.1\IDO.Edu.CacheManager.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.CacheManager\bin\Debug\netcoreapp3.1\IDO.Edu.Core.pdb

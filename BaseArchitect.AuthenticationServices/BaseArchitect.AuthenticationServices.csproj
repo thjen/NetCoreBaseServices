@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseArchitect.CacheManager\BaseArchitect.CacheManager.csproj" />
+    <ProjectReference Include="..\BaseArchitect.Constants\BaseArchitect.Constants.csproj" />
+    <ProjectReference Include="..\BaseArchitect.Core\BaseArchitect.Core.csproj" />
+    <ProjectReference Include="..\BaseArchitect.DAL\BaseArchitect.DAL.csproj" />
+    <ProjectReference Include="..\BaseArchitect.Entities\BaseArchitect.Entities.csproj" />
+    <ProjectReference Include="..\BaseArchitect.Utility\BaseArchitect.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

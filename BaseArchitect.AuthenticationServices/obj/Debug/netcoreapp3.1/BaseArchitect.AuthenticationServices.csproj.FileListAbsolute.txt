@@ -1,0 +1,63 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csproj.CopyComplete
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.CacheManager.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Core.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.DAL.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Entities.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\bin\Debug\netcoreapp3.1\BaseArchitect.Utility.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.csproj.CopyComplete
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.AuthenticationServices\obj\Debug\netcoreapp3.1\BaseArchitect.AuthenticationServices.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IDO.Edu.Constants\IDO.Edu.Constants.csproj" />
+    <ProjectReference Include="..\IDO.Edu.DTO\IDO.Edu.DTO.csproj" />
+    <ProjectReference Include="..\IDO.Edu.Entities\IDO.Edu.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

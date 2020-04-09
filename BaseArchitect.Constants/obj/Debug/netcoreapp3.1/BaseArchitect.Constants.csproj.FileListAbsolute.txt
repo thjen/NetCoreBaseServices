@@ -1,0 +1,24 @@
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.deps.json
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.csprojAssemblyReference.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfoInputs.cache
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfo.cs
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\Net Core Architect\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.deps.json
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\IDO.Edu.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.deps.json
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb

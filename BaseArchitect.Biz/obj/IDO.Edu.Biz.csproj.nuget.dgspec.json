@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Biz\\IDO.Edu.Biz.csproj": {}
+  },
+  "projects": {
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Biz\\IDO.Edu.Biz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Biz\\IDO.Edu.Biz.csproj",
+        "projectName": "IDO.Edu.Biz",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Biz\\IDO.Edu.Biz.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Biz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\IDO.Edu.Constants.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\IDO.Edu.Constants.csproj"
+              },
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\IDO.Edu.DTO.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\IDO.Edu.DTO.csproj"
+              },
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\IDO.Edu.Constants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\IDO.Edu.Constants.csproj",
+        "projectName": "IDO.Edu.Constants",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\IDO.Edu.Constants.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Constants\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\IDO.Edu.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\IDO.Edu.Core.csproj",
+        "projectName": "IDO.Edu.Core",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\IDO.Edu.Core.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\IDO.Edu.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\IDO.Edu.DTO.csproj",
+        "projectName": "IDO.Edu.DTO",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\IDO.Edu.DTO.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj",
+        "projectName": "IDO.Edu.Entities",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\IDO.Edu.Entities.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\IDO.Edu.Utility.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\IDO.Edu.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\IDO.Edu.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\IDO.Edu.Utility.csproj",
+        "projectName": "IDO.Edu.Utility",
+        "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\IDO.Edu.Utility.csproj",
+        "packagesPath": "C:\\Users\\QuocThjen\\.nuget\\packages\\",
+        "outputPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QuocThjen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\IDO.Edu.Core.csproj": {
+                "projectPath": "P:\\Personal\\Indoor\\Indoor.Education\\Indoor.Education.Services\\Indoor.Education.Services\\IDO.Edu.Core\\IDO.Edu.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

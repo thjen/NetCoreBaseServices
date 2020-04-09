@@ -1,0 +1,11 @@
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.deps.json
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.AssemblyInfoInputs.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.AssemblyInfo.cs
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\IDO.Edu.Utility.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.csprojAssemblyReference.cache
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\IDO.Edu.Core.dll
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\bin\Debug\netcoreapp3.1\IDO.Edu.Core.pdb
+P:\Personal\Indoor\Indoor.Education\Indoor.Education.Services\Indoor.Education.Services\IDO.Edu.Utility\obj\Debug\netcoreapp3.1\IDO.Edu.Utility.csproj.CopyComplete
