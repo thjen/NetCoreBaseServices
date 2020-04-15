@@ -17,7 +17,7 @@ namespace BaseArchitect.API.Controllers
         [Route("GetAccounts")]      
         public AccountDto GetAccounts()
         {
-            var userprofile = ProfileCaching.Profile();
+            //var userprofile = ProfileCaching.Profile();
             var res = new AccountDto();
             res.Accounts = _AccountServices.GetAllAccount();
             return res;

@@ -35,7 +35,7 @@ namespace BaseArchitect.API
             //        assembly => assembly.MigrationsAssembly(typeof(IdoContext).Assembly.FullName));
             //});
 
-            services            
+            services               
                 .AddControllers(ops => ops.Filters.Add(typeof(JsonExceptionFilter)))
                 .ConfigureApiBehaviorOptions(options =>
                 {
@@ -51,11 +51,18 @@ namespace BaseArchitect.API
                     opt.JsonSerializerOptions.DictionaryKeyPolicy = null;
                     opt.JsonSerializerOptions.IgnoreNullValues = true;
                 });
+
+            services.AddCors(options => options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseCors("CorsPolicy");
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

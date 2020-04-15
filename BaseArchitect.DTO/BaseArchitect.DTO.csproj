@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BaseArchitect.CacheManager\BaseArchitect.CacheManager.csproj" />
     <ProjectReference Include="..\BaseArchitect.Entities\BaseArchitect.Entities.csproj" />
   </ItemGroup>
 

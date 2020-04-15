@@ -55,6 +55,7 @@ namespace BaseArchitect.API.Config
                 }
                 else
                 {
+                    context.HttpContext.Items[PCS.MiddlewareContextItem.AccountProfile] = profile;
                     await next();
                 }
             }

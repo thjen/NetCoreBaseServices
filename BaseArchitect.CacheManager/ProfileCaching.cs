@@ -8,27 +8,25 @@ namespace BaseArchitect.CacheManager
     public class ProfileCaching
     {
         private static Dictionary<int, UserProfile> dctProfile = new Dictionary<int, UserProfile>();
-        private static int empID = 0; 
 
-        public static void CacheProfile(Account account, List<Role> roles)
+        public static void CacheProfile(UserProfile profile)
         {
-            UserProfile profile = new UserProfile()
+            if (profile == null)
             {
-                AccountID = account.AccountID,                
-                Roles = roles
-            };
-
-            empID = account.AccountID;
-
-            if (dctProfile.ContainsKey(profile.AccountID))
-            {
-                dctProfile[profile.AccountID] = profile;
+                return;
             }
             else
             {
-                dctProfile.Add(profile.AccountID, profile);
+                if (dctProfile.ContainsKey(profile.AccountID))
+                {
+                    dctProfile[profile.AccountID] = profile;
+                }
+                else
+                {
+                    dctProfile.Add(profile.AccountID, profile);
+                }
             }
-            
+
         }
 
         public static void RemoveProfileFromCache(UserProfile profile)
@@ -39,8 +37,6 @@ namespace BaseArchitect.CacheManager
             }
             else
             {
-                empID = 0;
-
                 if (dctProfile.ContainsKey(profile.AccountID))
                 {
                     dctProfile.Remove(profile.AccountID);
@@ -58,11 +54,6 @@ namespace BaseArchitect.CacheManager
             {
                 return null;
             }
-        }
-
-        public static UserProfile Profile()
-        {
-            return dctProfile[empID];
         }
     }
 }

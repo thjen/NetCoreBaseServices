@@ -61,6 +61,14 @@
               "target": "Package",
               "version": "[5.2.7, )"
             },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
@@ -402,6 +410,9 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.CacheManager\\BaseArchitect.CacheManager.csproj": {
+                "projectPath": "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.CacheManager\\BaseArchitect.CacheManager.csproj"
+              },
               "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.Entities\\BaseArchitect.Entities.csproj": {
                 "projectPath": "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.Entities\\BaseArchitect.Entities.csproj"
               }

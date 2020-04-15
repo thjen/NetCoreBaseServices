@@ -22,3 +22,11 @@ E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.
 E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfo.cs
 E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
 E:\Source\CODE_BASE\BaseArchitect\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.deps.json
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\bin\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.csprojAssemblyReference.cache
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfoInputs.cache
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.AssemblyInfo.cs
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.dll
+E:\Source\CODE_BASE\BaseArchitectService\BaseArchitect.Constants\obj\Debug\netcoreapp3.1\BaseArchitect.Constants.pdb

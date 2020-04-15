@@ -1,14 +1,12 @@
-﻿using BaseArchitect.Entities;
+﻿using BaseArchitect.DAL;
+using BaseArchitect.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Transactions;
-using System.Linq;
-using BaseArchitect.DAL;
 
-namespace BaseArchitect.Services
+namespace BaseArchitect.AuthenticationServices.AuthRole
 {
-    public class RoleServices
+    public class AuthRoleBiz
     {
         public List<Role> GetRolesByAccount(int accountID)
         {

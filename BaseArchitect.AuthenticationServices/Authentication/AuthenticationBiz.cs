@@ -1,18 +1,16 @@
 ﻿using BaseArchitect.Constants;
 using BaseArchitect.DAL;
 using BaseArchitect.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Linq;
 using BaseArchitect.Utility;
+using System;
+using System.Linq;
 
 namespace BaseArchitect.AuthenticationServices.Authentication
 {
     public class AuthenticationBiz
     {
         #region Methods
-
+      
         public RefreshToken UpdateRefreshToken(int accountID)
         {
             RefreshToken reToken = DAO.EF.RefreshToken.FirstOrDefault(rt => rt.AccountID == accountID);
@@ -32,7 +30,7 @@ namespace BaseArchitect.AuthenticationServices.Authentication
             };
             DAO.EF.SaveChanges();
             return reToken;
-        }
+        }       
 
         public RefreshToken GetRefreshToken(int accountID)
         {
@@ -65,7 +63,7 @@ namespace BaseArchitect.AuthenticationServices.Authentication
             if (!passMD5Encrypt.Equals(accExists.Password))
             {
                 throw new Exception("Mật khẩu không chính xác. Vui lòng thử lại");
-            }
+            }          
 
             return accExists;
         }

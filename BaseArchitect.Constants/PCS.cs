@@ -9,6 +9,11 @@ namespace BaseArchitect.Constants
         public const int WebPageCount = 100;
         public const int MobilePageCount = 20;      
 
+        public class MiddlewareContextItem
+        {
+            public const string AccountProfile = "AccountProfile ";
+        }
+
         public class UserToken
         {
             public const int RefreshTokenExpiryTime = 5; // refresh token 600' = 10h làm việc

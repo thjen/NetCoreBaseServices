@@ -5,7 +5,7 @@ using System.Text;
 
 namespace BaseArchitect.DTO.Param
 {
-    public class AuthenticationDto
+    public class AuthenticationDto : BaseDto
     {
         public string Email { get; set; }
 

@@ -1262,6 +1262,19 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "BaseArchitect.CacheManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BaseArchitect.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BaseArchitect.CacheManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BaseArchitect.CacheManager.dll": {}
+        }
+      },
       "BaseArchitect.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -4998,6 +5011,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "BaseArchitect.CacheManager/1.0.0": {
+      "type": "project",
+      "path": "../BaseArchitect.CacheManager/BaseArchitect.CacheManager.csproj",
+      "msbuildProject": "../BaseArchitect.CacheManager/BaseArchitect.CacheManager.csproj"
+    },
     "BaseArchitect.Core/1.0.0": {
       "type": "project",
       "path": "../BaseArchitect.Core/BaseArchitect.Core.csproj",
@@ -5016,6 +5034,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BaseArchitect.CacheManager >= 1.0.0",
       "BaseArchitect.Entities >= 1.0.0"
     ]
   },
@@ -5045,6 +5064,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.CacheManager\\BaseArchitect.CacheManager.csproj": {
+              "projectPath": "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.CacheManager\\BaseArchitect.CacheManager.csproj"
+            },
             "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.Entities\\BaseArchitect.Entities.csproj": {
               "projectPath": "E:\\Source\\CODE_BASE\\BaseArchitectService\\BaseArchitect.Entities\\BaseArchitect.Entities.csproj"
             }

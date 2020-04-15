@@ -13,20 +13,23 @@ using System.Security.Authentication;
 using System.Security.Claims;
 using System.Text;
 using BaseArchitect.AuthenticationServices.Authentication;
+using BaseArchitect.API.Config;
+using BaseArchitect.AuthenticationServices.AuthAccount;
+using BaseArchitect.AuthenticationServices.AuthRole;
 
 namespace BaseArchitect.API.Controllers
 {
     [Route("api/authentication")]
     [ApiController]
-    public class AuthenticationController : ControllerBase
+    public class AuthenticationController : BaseController
     {
         #region Fields
 
-        private readonly AccountServices _AccountServices = new AccountServices();
+        private readonly AuthAccountBiz _AccountServices = new AuthAccountBiz();
 
         private readonly AuthenticationBiz _AuthServices = new AuthenticationBiz();
 
-        private readonly RoleServices _RoleServices = new RoleServices();
+        private readonly AuthRoleBiz _RoleServices = new AuthRoleBiz();
 
         #endregion
 
@@ -39,33 +42,32 @@ namespace BaseArchitect.API.Controllers
         /// <returns></returns>
         [HttpPost]
         [Route("login")]
-        public AuthenticationDto Login(AuthenticationDto param)
+        public AuthenticationDto Login(AuthenticationDto request)
         {
+            AuthenticationDto response = new AuthenticationDto();
+
             // get account
-            Account account = _AuthServices.Login(param.Email, param.Password);
-            RefreshToken reToken = _AuthServices.GetRefreshToken(account.AccountID);
+            Account account = _AuthServices.Login(request.Email, request.Password);                     
 
             // cache profile
-            ProfileCaching.CacheProfile(account, _RoleServices.GetRolesByAccount(account.AccountID));
+            ProfileCaching.CacheProfile(new UserProfile() { AccountID = account.AccountID, Roles = _RoleServices.GetRolesByAccount(account.AccountID) });
 
             // generate token
             string token = GenerateToken(account);
-
-            // return response
-            AuthenticationDto response = new AuthenticationDto();
+            response.RefreshToken = _AuthServices.GetRefreshToken(account.AccountID).ReToken.Trim();
             response.AccessToken = token;
-            response.RefreshToken = reToken.ReToken.Trim();
-            //response.Account = account;
 
             return response;
         }
 
         [HttpPost]
         [Route("refresh")]
+        [AuthorizeAttribute]
         public AuthenticationDto Refresh(AuthenticationDto param)
-        {          
-            Account account = _AccountServices.GetByID(ProfileCaching.Profile().AccountID);
-            RefreshToken reToken = _AuthServices.GetRefreshToken(ProfileCaching.Profile().AccountID);
+        {
+            int accountID = (HttpContext.Items[PCS.MiddlewareContextItem.AccountProfile] as UserProfile).AccountID;
+            Account account = _AccountServices.GetAccountByID(accountID);
+            RefreshToken reToken = _AuthServices.GetRefreshToken(accountID);
             
             if (param.RefreshToken.Trim() != reToken.ReToken.Trim())
             {
@@ -80,7 +82,7 @@ namespace BaseArchitect.API.Controllers
                 // hết hạn refresh token
                 //throw new TokenExpiredException("Refresh token is expired!");
                 // cập nhật token
-                newRefreshToken = _AuthServices.UpdateRefreshToken(ProfileCaching.Profile().AccountID);
+                newRefreshToken = _AuthServices.UpdateRefreshToken(accountID);
             }
 
             // làm mới access token
